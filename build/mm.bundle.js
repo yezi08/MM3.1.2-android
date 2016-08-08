@@ -37536,6 +37536,6 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "847204461162",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://10.7.4.131/moodle31/"
+    "siteurl": "http://10.7.0.210"
 }
 );
