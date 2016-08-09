@@ -40,7 +40,7 @@ angular.module('mm.core.course')
     var self = {},
         mods = ["assign", "assignment", "book", "chat", "choice", "data", "database", "date", "external-tool",
             "feedback", "file", "folder", "forum", "glossary", "ims", "imscp", "label", "lesson", "lti", "page", "quiz",
-            "resource", "scorm", "survey", "url", "wiki", "workshop", "activequiz", "allocationform", "attendance", "basiclti", "bigbluebuttonbn", "certificate", "choicegroup", "dialogue", "etherpadlite", "helixmedia", "lightboxgallery", "pcast", "pearson", "publication", "questionnaire", "reservation", "scheduler", "turnitintooltwo"
+            "resource", "scorm", "survey", "url", "wiki", "workshop", "activequiz", "allocationform", "attendance", "basiclti", "bigbluebuttonbn", "certificate", "choicegroup", "dialogue", "etherpadlite", "helixmedia", "lightboxgallery", "pcast", "pearson", "publication", "questionnaire", "reservation", "scheduler"
         ],
         modsWithContent = ['book', 'folder', 'imscp', 'page', 'resource', 'url'];
 
