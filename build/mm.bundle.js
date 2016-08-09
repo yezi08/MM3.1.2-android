@@ -5122,7 +5122,7 @@ angular.module('mm.core')
 // START: XJTLU ADDITION 03/Aug/2016 - change the "support" link in the app
 //            var docsurl = 'https://docs.moodle.org/en/' + page;
 
-            var docsurl = 'http://ice.xjtlu.edu.cn/local/staticpage/view.php?page=ICE_app' + page;
+            var docsurl = 'http://10.7.0.210/course/view.php?id=55' + page;
 // END: XJTLU ADDITION 03/Aug/2016
             if (typeof release != 'undefined') {
                 var version = release.substr(0, 3).replace(".", "");
